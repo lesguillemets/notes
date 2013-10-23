@@ -8,3 +8,4 @@
 |22 Oct 2013|[python : `namedtuple`](./2013/Oct/22.python-namedtuple.md)                         |python  |
 |23 Oct 2013|[vim の insert mode で行頭の=が増える件：解読編](./2013/Oct/23.vim-doubleequal-2.md)|vim     |
 |24 Oct 2013|[python : `operator` module](./2013/Oct/24.python-module-operator.md)               |python  |
+|25 Oct 2013|[オラオラした（寿司 虚空編 (2)）](./2013/Oct/25.oraora-sushi2.md)]                  |python  |
