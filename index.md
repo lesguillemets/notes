@@ -11,3 +11,4 @@
 |25 Oct 2013|[オラオラした（寿司 虚空編 (2)）](./2013/Oct/25.oraora-sushi2.md)                   |python  |
 |26 Oct 2013|[password 受け付けるとき的なアレ](./2013/Oct/26.python-getpass.md)                  |python  |
 |27 Oct 2013|[Vim の tab をもうちょっとつかおう](./2013/Oct/27.vim-tab.md)                       |vim     |
+|28 Oct 2013|[paint.vim 作った](./2013/Oct/28.vim-paint.md)                                      |vim     |
