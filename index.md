@@ -13,3 +13,4 @@
 |27 Oct 2013|[Vim の tab をもうちょっとつかおう](./2013/Oct/27.vim-tab.md)                       |vim     |
 |28 Oct 2013|[paint.vim 作った](./2013/Oct/28.vim-paint.md)                                      |vim     |
 |29 Oct 2013|[`.pythonstartup`](./2013/Oct/29.pythonstartup.md)                                  |python  |
+|30 Oct 2013|[python から terminal の幅を取得](./2013/Oct/30.python-consolewidth.md)             |python  |
