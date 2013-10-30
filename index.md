@@ -14,3 +14,4 @@
 |28 Oct 2013|[paint.vim 作った](./2013/Oct/28.vim-paint.md)                                      |vim     |
 |29 Oct 2013|[`.pythonstartup`](./2013/Oct/29.pythonstartup.md)                                  |python  |
 |30 Oct 2013|[python から terminal の幅を取得](./2013/Oct/30.python-consolewidth.md)             |python  |
+|31 Oct 2013|[python で csv ファイルを読む](./2013/Oct/31-python-readcsv.md)                     |python  |
