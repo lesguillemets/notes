@@ -4,6 +4,7 @@
 |Date       |Title                                                                               |Tags    |
 |-----------|------------------------------------------------------------------------------------|--------|
 |1 Nov 2013 |[Python でかんたん一次元 cellular automaton](./2013/Nov/1.python-ca.md)             |python  |
+|2 Nov 2013 |[Python の subprocess](./2013/Nov/2.python-subprocess.md)                           |python  |
 
 
 ####[October](./2013/Oct)
