@@ -5,7 +5,7 @@
 |-----------|------------------------------------------------------------------------------------|--------|
 |1 Nov 2013 |[Python でかんたん一次元 cellular automaton](./2013/Nov/1.python-ca.md)             |python  |
 |2 Nov 2013 |[Python の subprocess](./2013/Nov/2.python-subprocess.md)                           |python  |
-|3 Nov 2013 |[Python の subprocess その2](./2013/Nov/3.python-subprocess(2).md)                  |python  |
+|3 Nov 2013 |[Python の subprocess その2](./2013/Nov/3.python-subprocess-2.md)                   |python  |
 
 
 ####[October](./2013/Oct)
@@ -24,3 +24,4 @@
 |29 Oct 2013|[`.pythonstartup`](./2013/Oct/29.pythonstartup.md)                                  |python  |
 |30 Oct 2013|[python から terminal の幅を取得](./2013/Oct/30.python-consolewidth.md)             |python  |
 |31 Oct 2013|[python で csv ファイルを読む](./2013/Oct/31-python-readcsv.md)                     |python  |
+
