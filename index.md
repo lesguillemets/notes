@@ -6,6 +6,7 @@
 |1 Nov 2013 |[Python でかんたん一次元 cellular automaton](./2013/Nov/1.python-ca.md)             |python  |
 |2 Nov 2013 |[Python の subprocess](./2013/Nov/2.python-subprocess.md)                           |python  |
 |3 Nov 2013 |[Python の subprocess その2](./2013/Nov/3.python-subprocess-2.md)                   |python  |
+|4 Nov 2013 |[Python : None](./2013/Nov/4.python-None-comparison.md)                             |python  |
 
 
 ####[October](./2013/Oct)
