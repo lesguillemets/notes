@@ -8,6 +8,7 @@
 | 3 Nov 2013|[Python の subprocess その2](./2013/Nov/3.python-subprocess-2.md)                   |python  |
 | 4 Nov 2013|[Python : None](./2013/Nov/4.python-None-comparison.md)                             |python  |
 | 5 Nov 2013|[`pydot`](./2013/Nov/5.python-pydot.md)                                             |python  |
+| 6 Nov 2013|[python の `for` とかのアレ](./2013/Nov/6.python-for-refresh.md)                    |python  |
 
 
 ####[October](./2013/Oct)
