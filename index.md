@@ -9,7 +9,8 @@
 | 4 Nov 2013|[Python : None](./2013/Nov/4.python-None-comparison.md)                             |python  |
 | 5 Nov 2013|[`pydot`](./2013/Nov/5.python-pydot.md)                                             |python  |
 | 6 Nov 2013|[python の `for` とかのアレ](./2013/Nov/6.python-for-refresh.md)                    |python  |
-| 7 Nov 2013|[vim - i_Ctrl-O](./2013/Nov/7.vim-i_CTRL-O.md)                                      |python  |
+| 7 Nov 2013|[vim - i_Ctrl-O](./2013/Nov/7.vim-i_CTRL-O.md)                                      |vim     |
+| 8 Nov 2013|[.vimrc のちょっとした色々]( ./2013/Nov/8.vimrc-settings.md)                        |vim     |
 
 
 ####[October](./2013/Oct)
