@@ -11,6 +11,7 @@
 | 6 Nov 2013|[python の `for` とかのアレ](./2013/Nov/6.python-for-refresh.md)                    |python  |
 | 7 Nov 2013|[vim - i_Ctrl-O](./2013/Nov/7.vim-i_CTRL-O.md)                                      |vim     |
 | 8 Nov 2013|[.vimrc のちょっとした色々]( ./2013/Nov/8.vimrc-settings.md)                        |vim     |
+| 9 Nov 2013|[python で Perlin noise](./2013/Nov/9.python-perlinnoise.md)                        |python  |
 
 
 ####[October](./2013/Oct)
