@@ -13,6 +13,7 @@
 | 8 Nov 2013|[.vimrc のちょっとした色々]( ./2013/Nov/8.vimrc-settings.md)                        |vim     |
 | 9 Nov 2013|[python で Perlin noise](./2013/Nov/9.python-perlinnoise.md)                        |python  |
 |10 Nov 2013|[python: numpy の `array`](./2013/Nov/10.python-numpy-arrays.md)                    |python  |
+|11 Nov 2013|[python で Perlin noise その 2](./2013/Nov/11.python-perlinnoise-multi.md)          |python  |
 
 
 ####[October](./2013/Oct)
