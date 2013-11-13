@@ -16,6 +16,7 @@
 |11 Nov 2013|[python で Perlin noise その 2](./2013/Nov/11.python-perlinnoise-multi.md)          |python  |
 |12 Nov 2013|[python で もっと Perlin noise](./2013/Nov/12.python-perlinnoise-more.md)           |python  |
 |13 Nov 2013|[python : numpy の array の各成分に sinとか](./2013/Nov/13.python-numpy-sin.md)     |python  |
+|14 Nov 2013|[python : rename 用のちっさいスクリプト](./2013/Nov/14.python-handy-renamer.md)     |python  |
 
 
 ####[October](./2013/Oct)
