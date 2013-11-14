@@ -17,6 +17,7 @@
 |12 Nov 2013|[python で もっと Perlin noise](./2013/Nov/12.python-perlinnoise-more.md)           |python  |
 |13 Nov 2013|[python : numpy の array の各成分に sinとか](./2013/Nov/13.python-numpy-sin.md)     |python  |
 |14 Nov 2013|[python : rename 用のちっさいスクリプト](./2013/Nov/14.python-handy-renamer.md)     |python  |
+|15 Nov 2013|[python : 実行時間の計測に際してのちょっとしたこと](./2013/Nov/15.python-timing.md) |python  |
 
 
 ####[October](./2013/Oct)
