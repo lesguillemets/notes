@@ -1,23 +1,24 @@
 ###2013
 ####[November](./2013/Nov)
 
-|Date       |Title                                                                               |Tags    |
-|-----------|------------------------------------------------------------------------------------|--------|
-| 1 Nov 2013|[Python でかんたん一次元 cellular automaton](./2013/Nov/1.python-ca.md)             |python  |
-| 2 Nov 2013|[Python の subprocess](./2013/Nov/2.python-subprocess.md)                           |python  |
-| 3 Nov 2013|[Python の subprocess その2](./2013/Nov/3.python-subprocess-2.md)                   |python  |
-| 4 Nov 2013|[Python : None](./2013/Nov/4.python-None-comparison.md)                             |python  |
-| 5 Nov 2013|[`pydot`](./2013/Nov/5.python-pydot.md)                                             |python  |
-| 6 Nov 2013|[python の `for` とかのアレ](./2013/Nov/6.python-for-refresh.md)                    |python  |
-| 7 Nov 2013|[vim - i_Ctrl-O](./2013/Nov/7.vim-i_CTRL-O.md)                                      |vim     |
-| 8 Nov 2013|[.vimrc のちょっとした色々]( ./2013/Nov/8.vimrc-settings.md)                        |vim     |
-| 9 Nov 2013|[python で Perlin noise](./2013/Nov/9.python-perlinnoise.md)                        |python  |
-|10 Nov 2013|[python: numpy の `array`](./2013/Nov/10.python-numpy-arrays.md)                    |python  |
-|11 Nov 2013|[python で Perlin noise その 2](./2013/Nov/11.python-perlinnoise-multi.md)          |python  |
-|12 Nov 2013|[python で もっと Perlin noise](./2013/Nov/12.python-perlinnoise-more.md)           |python  |
-|13 Nov 2013|[python : numpy の array の各成分に sinとか](./2013/Nov/13.python-numpy-sin.md)     |python  |
-|14 Nov 2013|[python : rename 用のちっさいスクリプト](./2013/Nov/14.python-handy-renamer.md)     |python  |
-|15 Nov 2013|[python : 実行時間の計測に際してのちょっとしたこと](./2013/Nov/15.python-timing.md) |python  |
+|Date       |Title                                                                                 |Tags    |
+|-----------|--------------------------------------------------------------------------------------|--------|
+|1 Nov 2013 |[Python でかんたん一次元 cellular automaton](./2013/Nov/1.python-ca.md)               |python  |
+|2 Nov 2013 |[Python の subprocess](./2013/Nov/2.python-subprocess.md)                             |python  |
+|3 Nov 2013 |[Python の subprocess その2](./2013/Nov/3.python-subprocess-2.md)                     |python  |
+|4 Nov 2013 |[Python : None](./2013/Nov/4.python-None-comparison.md)                               |python  |
+|5 Nov 2013 |[`pydot`](./2013/Nov/5.python-pydot.md)                                               |python  |
+|6 Nov 2013 |[python の `for` とかのアレ](./2013/Nov/6.python-for-refresh.md)                      |python  |
+|7 Nov 2013 |[vim - i_Ctrl-O](./2013/Nov/7.vim-i_CTRL-O.md)                                        |vim     |
+|8 Nov 2013 |[.vimrc のちょっとした色々]( ./2013/Nov/8.vimrc-settings.md)                          |vim     |
+|9 Nov 2013 |[python で Perlin noise](./2013/Nov/9.python-perlinnoise.md)                          |python  |
+|10 Nov 2013|[python: numpy の `array`](./2013/Nov/10.python-numpy-arrays.md)                      |python  |
+|11 Nov 2013|[python で Perlin noise その 2](./2013/Nov/11.python-perlinnoise-multi.md)            |python  |
+|12 Nov 2013|[python で もっと Perlin noise](./2013/Nov/12.python-perlinnoise-more.md)             |python  |
+|13 Nov 2013|[python : numpy の array の各成分に sinとか](./2013/Nov/13.python-numpy-sin.md)       |python  |
+|14 Nov 2013|[python : rename 用のちっさいスクリプト](./2013/Nov/14.python-handy-renamer.md)       |python  |
+|15 Nov 2013|[python : 実行時間の計測に際してのちょっとしたこと](./2013/Nov/15.python-timing.md)   |python  |
+|16 Nov 2013|[python : 実行時間の計測に際してのアレ：解決編](./2013/Nov/16.python-timing-solved.md)|python  |
 
 
 ####[October](./2013/Oct)
