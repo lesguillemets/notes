@@ -20,7 +20,7 @@
 |15 Nov 2013|[python : 実行時間の計測に際してのちょっとしたこと](./2013/Nov/15.python-timing.md)    |python  |
 |16 Nov 2013|[python : 実行時間の計測に際してのアレ：解決編](./2013/Nov/16.python-timing-solved.md) |python  |
 |17 Nov 2013|[python から gnuplot 呼んでみたらホイホイ来てくれた件](./2013/Nov/17.python-gnuplot.md)|python  |
-
+|18 Nov 2013|[gnuplot で fibonacci](./2013/Nov/18.gnuplot-fib.md)                                   |gnuplot |
 
 ####[October](./2013/Oct)
 
