@@ -21,6 +21,7 @@
 |16 Nov 2013|[python : 実行時間の計測に際してのアレ：解決編](./2013/Nov/16.python-timing-solved.md) |python  |
 |17 Nov 2013|[python から gnuplot 呼んでみたらホイホイ来てくれた件](./2013/Nov/17.python-gnuplot.md)|python  |
 |18 Nov 2013|[gnuplot で fibonacci](./2013/Nov/18.gnuplot-fib.md)                                   |gnuplot |
+|19 Nov 2013|[PIL + numpy で色を扱う](./2013/Nov/19.PIL-couleur.md)                                 |python  |
 
 ####[October](./2013/Oct)
 
