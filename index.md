@@ -25,6 +25,7 @@
 |20 Nov 2013|[Python で piapro から曲リストを作ってみる](./2013/Nov/20.piapro-songlist.md)             |Python  |
 |21 Nov 2013|[Python で作った曲リストから手元のファイルをチェック](./2013/Nov/21.check-song-lengths.md)|Python  |
 |22 Nov 2013|[Python でモンテカルロで円周率いろいろ](./2013/Nov/22.python-montecarlo.md)               |Python  |
+|23 Nov 2013|[Vim で ox の syntax file を書きはじめた](./2013/Nov/23.vim-ox01.md)                      |Python  |
 
 ####[October](./2013/Oct)
 
