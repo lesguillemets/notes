@@ -28,7 +28,7 @@
 |23 Nov 2013|[Vim で ox の syntax file を書きはじめた](./2013/Nov/23.vim-ox01.md)                      |Vim     |
 |24 Nov 2013|[Vim でお世話になってる plugin まとめ](./2013/Nov/24.vim-plugins.md)                      |Vim     |
 |25 Nov 2013|[Vim から .tex をコンパイルする雑なやり方](./2013/Nov/25.vim-compile-tex.md)              |Vim     |
-|26 Nov 2013|[Vim で .tex を編集してると $ とかが見えない(./2013/Nov/26.vim-conceal-tex.md)            |Vim     |
+|26 Nov 2013|[Vim で .tex を編集してると $ とかが見えない](./2013/Nov/26.vim-conceal-tex.md)           |Vim     |
 
 ####[October](./2013/Oct)
 
