@@ -29,6 +29,8 @@
 |24 Nov 2013|[Vim でお世話になってる plugin まとめ](./2013/Nov/24.vim-plugins.md)                      |Vim     |
 |25 Nov 2013|[Vim から .tex をコンパイルする雑なやり方](./2013/Nov/25.vim-compile-tex.md)              |Vim     |
 |26 Nov 2013|[Vim で .tex を編集してると $ とかが見えない](./2013/Nov/26.vim-conceal-tex.md)           |Vim     |
+|27 Nov 2013|[.csv をお好みの言語でサクッと扱う冴えたやり方](./2013/Nov/27.python-csv-vim.md)          |Vim     |
+|28 Nov 2013|[numpy の dtype について](./2013/Nov/28.np.dtype.md)                                      |Python  |
 
 ####[October](./2013/Oct)
 
