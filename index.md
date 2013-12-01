@@ -31,6 +31,9 @@
 |26 Nov 2013|[Vim で .tex を編集してると $ とかが見えない](./2013/Nov/26.vim-conceal-tex.md)           |Vim     |
 |27 Nov 2013|[.csv をお好みの言語でサクッと扱う冴えたやり方](./2013/Nov/27.python-csv-vim.md)          |Vim     |
 |28 Nov 2013|[numpy の dtype について](./2013/Nov/28.np.dtype.md)                                      |Python  |
+|29 Nov 2013|[Python : 生の int の method](./2013/Nov/29.python-rawint-methods.md)                     |Python  |
+|30 Nov 2013|[12月に入るので github page 作ってみた](./2013/Nov/30.eo-nov-and-io.md)                   |Python  |
+
 
 ####[October](./2013/Oct)
 
