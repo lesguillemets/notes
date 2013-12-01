@@ -1,4 +1,30 @@
 ###2013
+
+####[December](./2013/Dec)
+
+|Date       |Title                                                                                     |Tags    |
+|-----------|------------------------------------------------------------------------------------------|--------|
+|1 Dec 2013 |[Ulam Spiral](./2013/Dec/01.python-Ulam-spiral.md)                                        |python  |
+
+---
+
+####[October](./2013/Oct)
+
+|Date       |Title                                                                                     |Tags    |
+|-----------|------------------------------------------------------------------------------------------|--------|
+|20 Oct 2013|[GFM table](./2013/Oct/20.gfmtable.md)                                                    |markdown|
+|21 Oct 2013|[Vim の insert mode で行頭の=が増える件](./2013/Oct/21.vim-doubleequal.md)                |Vim     |
+|22 Oct 2013|[Python : `namedtuple`](./2013/Oct/22.python-namedtuple.md)                               |Python  |
+|23 Oct 2013|[Vim の insert mode で行頭の=が増える件：解読編](./2013/Oct/23.vim-doubleequal-2.md)      |Vim     |
+|24 Oct 2013|[Python : `operator` module](./2013/Oct/24.python-module-operator.md)                     |Python  |
+|25 Oct 2013|[オラオラした（寿司 虚空編 (2)）](./2013/Oct/25.oraora-sushi2.md)                         |Python  |
+|26 Oct 2013|[password 受け付けるとき的なアレ](./2013/Oct/26.python-getpass.md)                        |Python  |
+|27 Oct 2013|[Vim の tab をもうちょっとつかおう](./2013/Oct/27.Vim-tabs.md)                            |Vim     |
+|28 Oct 2013|[paint.Vim 作った](./2013/Oct/28.vim-paint.md)                                            |Vim     |
+|29 Oct 2013|[`.pythonstartup`](./2013/Oct/29.pythonstartup.md)                                        |Python  |
+|30 Oct 2013|[Python から terminal の幅を取得](./2013/Oct/30.python-consolewidth.md)                   |Python  |
+|31 Oct 2013|[Python で csv ファイルを読む](./2013/Oct/31-python-readcsv.md)                           |Python  |
+
 ####[November](./2013/Nov)
 
 |Date       |Title                                                                                     |Tags    |
@@ -33,22 +59,3 @@
 |28 Nov 2013|[numpy の dtype について](./2013/Nov/28.np.dtype.md)                                      |Python  |
 |29 Nov 2013|[Python : 生の int の method](./2013/Nov/29.python-rawint-methods.md)                     |Python  |
 |30 Nov 2013|[12月に入るので github page 作ってみた](./2013/Nov/30.eo-nov-and-io.md)                   |Python  |
-
-
-####[October](./2013/Oct)
-
-|Date       |Title                                                                               |Tags    |
-|-----------|------------------------------------------------------------------------------------|--------|
-|20 Oct 2013|[GFM table](./2013/Oct/20.gfmtable.md)                                              |markdown|
-|21 Oct 2013|[Vim の insert mode で行頭の=が増える件](./2013/Oct/21.vim-doubleequal.md)          |Vim     |
-|22 Oct 2013|[Python : `namedtuple`](./2013/Oct/22.python-namedtuple.md)                         |Python  |
-|23 Oct 2013|[Vim の insert mode で行頭の=が増える件：解読編](./2013/Oct/23.vim-doubleequal-2.md)|Vim     |
-|24 Oct 2013|[Python : `operator` module](./2013/Oct/24.python-module-operator.md)               |Python  |
-|25 Oct 2013|[オラオラした（寿司 虚空編 (2)）](./2013/Oct/25.oraora-sushi2.md)                   |Python  |
-|26 Oct 2013|[password 受け付けるとき的なアレ](./2013/Oct/26.python-getpass.md)                  |Python  |
-|27 Oct 2013|[Vim の tab をもうちょっとつかおう](./2013/Oct/27.Vim-tabs.md)                      |Vim     |
-|28 Oct 2013|[paint.Vim 作った](./2013/Oct/28.vim-paint.md)                                      |Vim     |
-|29 Oct 2013|[`.pythonstartup`](./2013/Oct/29.pythonstartup.md)                                  |Python  |
-|30 Oct 2013|[Python から terminal の幅を取得](./2013/Oct/30.python-consolewidth.md)             |Python  |
-|31 Oct 2013|[Python で csv ファイルを読む](./2013/Oct/31-python-readcsv.md)                     |Python  |
-
