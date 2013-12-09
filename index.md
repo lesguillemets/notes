@@ -6,6 +6,7 @@
 |-----------|--------------------------------------------------------------------------------------------------------|--------|
 |1 Dec 2013 |[Ulam Spiral](./2013/Dec/01.python-Ulam-spiral.md)                                                      |Python  |
 |9 Dec 2013 |[Python の format は変数に取り込んだ文字列にも使える話]( ./2013/Dec/09-python-format.md)                |Python  |
+|10 Dec 2013|[Vim--- :help quickref をちょっと読みなおしてみる(1)](./2013/Dec/10-vim-quickref.md)                    |Vim     |
 
 ---
 
