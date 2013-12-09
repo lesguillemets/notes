@@ -5,7 +5,7 @@
 |Date       |Title                                                                                                   |Tags    |
 |-----------|--------------------------------------------------------------------------------------------------------|--------|
 |1 Dec 2013 |[Ulam Spiral](./2013/Dec/01.python-Ulam-spiral.md)                                                      |Python  |
-|9 Dec 2013 |[Python の format は一旦変数に取り込んだ文字列にも使えるんだよ（要約）]( ./2013/Dec/09-python-format.md)|Python  |
+|9 Dec 2013 |[Python の format は変数に取り込んだ文字列にも使える話]( ./2013/Dec/09-python-format.md)                |Python  |
 
 ---
 
